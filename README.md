@@ -5,17 +5,17 @@ This is a responsive FAQ Accordion project built using **HTML**, **CSS**, and **
 
 
 ## 📁 Project Structure
-project-root/
-├── index.html
-├── style.css
-├── app.js
-└── assets/
-    └── images/
-        ├── icon-plus.svg
-        ├── icon-minus.svg
-        ├── icon-star.svg
-        ├── background-pattern-desktop.svg
-        └── background-pattern-mobile.svg
+project-root/     
+├── index.html   
+├── style.css    
+├── app.js   
+└── assets/     
+    └── images/   
+        ├── icon-plus.svg      
+        ├── icon-minus.svg    
+        ├── icon-star.svg    
+        ├── background-pattern-desktop.svg   
+        └── background-pattern-mobile.svg   
 
 
 
